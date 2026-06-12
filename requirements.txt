@@ -1,0 +1,8 @@
+gradio==4.44.0
+pandas
+numpy
+scikit-learn
+matplotlib
+wordcloud
+nltk
+joblib
